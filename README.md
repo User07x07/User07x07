@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @User07x07
 - 👀 I’m interested in Csharp Development
 - 🌱 I’m currently learning Csharp
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Csharp Development
 - 📫 How to reach me ..
 
 <!---
