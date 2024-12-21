@@ -1,5 +1,6 @@
 - 👀 Interested in Csharp Development tools for Penetration Testing
 - 🌱 Currently learning Malware Development using C#
+- 🌱 Currently learning Info Stealer Development using C# 
 - 💞️ I'm purely red
 
 <!---
