@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @User07x07
-- 👀 I’m interested in Csharp Development
-- 🌱 Currently learning Malware Development
-- 💞️ I’m looking to collaborate on Csharp Development
-- 📫 How to reach me?
+- 👀 Interested in Csharp Development tools for Penetration Testing
+- 🌱 Currently learning Malware Development using C#
+- 💞️ I'm purely red
 
 <!---
 User07x07/User07x07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
