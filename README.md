@@ -1,7 +1,8 @@
 - 👀 Interested in Csharp Development tools for Penetration Testing
 - 🌱 Currently learning Malware Development using C#
 - 🌱 Currently learning Info Stealer Development using C#
-- 🌱 Currently learning Reverse Engineering 
+- 🌱 Currently learning Reverse Engineering
+- 🌱 Vibe Coder
 - 💞️ I'm purely red
 
 <!---
