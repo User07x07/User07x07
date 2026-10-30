@@ -1,7 +1,6 @@
 ## 👾 About Me
 
 ```yaml
-alias: User07x07
 role: C# Developer | Red Team Enthusiast | Security Researcher
 mindset: Think like an attacker. Build like an engineer.
 ```
