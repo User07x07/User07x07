@@ -1,11 +1,33 @@
-- 👀 Interested in Csharp Development tools for Penetration Testing
-- 🌱 Currently learning Malware Development using C#
-- 🌱 Currently learning Info Stealer Development using C#
-- 🌱 Currently learning Reverse Engineering
-- 🌱 Vibe Coder
-- 💞️ I'm purely red
+## 👾 About Me
 
-<!---
-User07x07/User07x07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```yaml
+alias: User07x07
+role: C# Developer | Red Team Enthusiast | Security Researcher
+mindset: Think like an attacker. Build like an engineer.
+```
+
+I'm a developer with a passion for **C# engineering, offensive security, and reverse engineering**. I enjoy exploring how software works under the hood, understanding vulnerabilities, and building tools that push my technical boundaries.
+
+- 👨‍💻 Exploring C# development for offensive security and penetration testing.
+- 🧬 Studying malware analysis and development in controlled lab environments.
+- 🔐 Exploring information stealer behavior, detection, and defensive research.
+- 🔍 Learning reverse engineering, software internals, and binary analysis.
+- ⚡ Vibe coder — turning ideas into functional tools.
+- 🩸 Red Team mindset. Always curious, always learning.
+
+**"Understand the system. Find the weakness. Master the craft."**
+
+---
+
+### 🛠️ Current Interests
+
+- C# / .NET Development
+- Offensive Security & Red Teaming
+- Malware Research & Analysis
+- Reverse Engineering
+- Vulnerability Assessment & Penetration Testing
+- Security Tool Development
+
+---
+
+> 🩸 **Think Red. Build Smart. Stay Curious.**
